@@ -1,0 +1,4 @@
+ecg_path,proBNP,num_samples,fold,split
+./sample_data/ecg01.h5,5.5,5000,0,test
+./sample_data/ecg02.h5,3.5,5000,1,test
+./sample_data/ecg03.h5,1.6,5000,2,test
